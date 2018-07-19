@@ -10,4 +10,4 @@ Def "display_board"
   puts divider
   puts row
 end
-puts "display_board"
+display_board
